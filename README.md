@@ -1,4 +1,4 @@
-# Projeto de Microserviço de notificações
+# Projeto de Microserviço de Notificações
 
 ## Projeto criado com as técnologias:
 
